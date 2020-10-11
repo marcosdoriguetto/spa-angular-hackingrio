@@ -1,0 +1,26 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.button a {
+    width: 50%;
+}
+
+button {
+    font-size: 1.2rem;
+    width: 100%;
+    font-weight: bold;
+    border: none;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+
